@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Heygon Lago and I'm a CTO on <a href="http://m42mobi.com"><img alt="M42" src="http://m42mobi.com/site/images/m42.png" style="width:40px"></a>
+
+<img src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" />
+
 I'm Heygon Lago from Brasil (🇧🇷). I have been working as a front-end developer since 2014 and I am currently it director of startup m42. I am a javascript enthusiast and currently work with react, nodejs and mongodb.<br/>
 I'm #devfronend #sud #husband #henry'sfather #dreamer
 
