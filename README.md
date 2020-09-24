@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Heygon Lago and I'm a CTO on <a href="http://m42mobi.com"><img alt="M42" src="http://m42mobi.com/site/images/m42.png" width="40"></a>
+My name is Heygon Lago and I'm a CTO on <a href="http://m42mobi.com"><img alt="M42" src="http://m42mobi.com/site/images/m42.png" width="40"> M42 mobi</a>
 
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" />
 
