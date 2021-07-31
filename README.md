@@ -20,15 +20,15 @@ Meu nome é Heygon, e atualmente sou o CTO da <a href="http://m42mobi.com"><img 
   </div>
 </div>
 
-
+<br/>
 Eu sou Heygon Lago do Brasil (🇧🇷). Eu tenho trabalhado como desenvolvedor Front-end desde 2014, no momento eu sou diretor de ti da start up M42. Sou um entusiasta javascrip e atualmente trabalho com react, nodejs e mongodb.<br/>
 Eu sou #devfronend #sud #marido #paidohenry #sonhador
 
-
+<br/>
 I have been working as a front-end developer since 2014 and I am currently it director of startup m42. I am a javascript enthusiast and currently work with react, nodejs and mongodb.<br/>
 I'm #devfronend #sud #husband #henry'sfather #dreamer
 
- 
+ <br/>
 <div> 
   <a href = "mailto:heygonn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heygon-andrade-51b3b623/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
