@@ -1,6 +1,6 @@
-### Hi there 👋
+## Seja bem vindo(a) ao meu perfil!
 
-My name is Heygon Lago from Brasil (🇧🇷) and I'm a CTO on <a href="http://m42mobi.com"><img alt="M42" src="http://m42mobi.com/site/images/m42.png" width="40"> M42 mobi</a>
+Meu nome é Heygon, e atualmente sou o CTO da <a href="http://m42mobi.com"><img alt="M42" src="http://m42mobi.com/site/images/m42.png" width="40"> M42 mobi</a>
 
 <div>
   <img src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" />
@@ -9,6 +9,7 @@ My name is Heygon Lago from Brasil (🇧🇷) and I'm a CTO on <a href="http://m
   <a href="https://github.com/heygon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heygon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygon&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -16,8 +17,7 @@ My name is Heygon Lago from Brasil (🇧🇷) and I'm a CTO on <a href="http://m
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  </div>
 </div>
 
   
