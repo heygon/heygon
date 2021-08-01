@@ -8,7 +8,7 @@ Meu nome é Heygon, e atualmente sou o CTO da <a href="http://m42mobi.com"><img 
 <div  style="display: inline_block">
   <a href="https://github.com/heygon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heygon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygon&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygon&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
 <div style="display: inline_block">
