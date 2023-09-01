@@ -1,16 +1,11 @@
 ## Seja bem vindo(a) ao meu perfil!
 
-Meu nome é Heygon, e atualmente sou o CTO da <a href="http://m42mobi.com"><img alt="M42" src="http://m42mobi.com/site/images/m42.png" width="40"> M42 mobi</a>
-
-<div  style="display: inline_block">
-  <img src="https://media.giphy.com/media/PiQejEf31116URju4V/source.gif" />
-</div>
-<!--div style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/heygon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heygon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heygon&layout=compact&langs_count=10&theme=dracula"/>
   </a>
-</div-->
+</div>
 <div style="display: inline_block">
   <br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
