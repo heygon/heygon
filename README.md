@@ -1,4 +1,4 @@
-## Seja bem vindo(a) ao meu perfil!
+## Welcome to my profile!
 
 <!--div style="display: inline_block">
   <a href="https://github.com/heygon">
