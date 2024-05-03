@@ -28,12 +28,12 @@
 Eu sou Heygon Lago do Brasil (🇧🇷). 
 <br/>
 <br/>
-(🇧🇷) Eu tenho trabalhado como desenvolvedor Front-end desde 2014, no momento eu sou diretor de ti da start up M42. Sou um entusiasta javascrip e atualmente trabalho com react, nodejs e mongodb.<br/>
+(🇧🇷) Eu tenho trabalhado como desenvolvedor Front-end desde 2014, no momento eu sou CTO da startup M42. Sou um entusiasta javascrip e atualmente trabalho com React, Nodejs e Laravel. E tenho explorado as tecnologias de cloud as a service recentemente com Kubernets. <br/>
 Eu sou #devfronend #sud #marido #paidohenry #sonhador
 
 <br/>
 <br/>
-(🇨🇦) I have been working as a front-end developer since 2014 and I am currently it director of startup m42. I am a javascript enthusiast and currently work with react, nodejs and mongodb.<br/>
+(🇨🇦) I have been working as a Front-end developer since 2014, at the moment I am CTO of the startup M42. I'm a Javascript enthusiast and currently work with React, Nodejs and Laravel. And I have been exploring cloud as a service technologies, recently with Kubernets.<br/>
 I'm #devfronend #sud #husband #henry'sfather #dreamer
 
 <br/>
